@@ -1,0 +1,63 @@
+ .u-section-1 {
+  background-image: linear-gradient(#f1b5b8, #db545a);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 486px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 23px 64px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 21px 64px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 1px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  margin: 49px auto 0;
+  padding: 11px 50px 11px 49px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.3em;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: 33px 64px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 21px 64px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
